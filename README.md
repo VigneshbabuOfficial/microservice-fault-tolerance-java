@@ -14,4 +14,4 @@ https://javatechonline.com/how-to-implement-fault-tolerance-in-microservices-usi
 
 DOC:
 
-[message-queue-with-rabbitmq](https://github.com/VigneshbabuOfficial/programming-overview-interview-questions-answers/blob/main/microservice_overview_interview_qns_ans.md#message-queue-with-rabbitmq)
+[fault-tolerance](https://github.com/VigneshbabuOfficial/programming-overview-interview-questions-answers/blob/main/microservice_overview_interview_qns_ans.md#fault-tolerance)
